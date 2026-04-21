@@ -1,0 +1,1 @@
+$p="$env:tmp\putty.exe";(New-Object Net.WebClient).DownloadFile("https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe",$p);Start-Process $p
